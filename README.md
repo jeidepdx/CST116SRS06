@@ -2,7 +2,7 @@
 SSD
 
 
-Class ID:  
+Class ID:  Fearow
 
 SRS ID: CST116SRS06  
 
@@ -10,9 +10,9 @@ Unresolved Issues:
 
 Notes:  
 
-Partner Left:  
+Partner Left:  Whimsicott
 
-Partner Right:  
+Partner Right:  Lillipup
 
 ---
 

@@ -21,7 +21,7 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Eide_SSD.h">
+    <ClInclude Include="Fearow_SSD.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -32,7 +32,7 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Eide_SSD.cpp">
+    <ClCompile Include="Fearow_SSD.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
