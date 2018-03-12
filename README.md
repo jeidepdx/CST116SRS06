@@ -8,7 +8,7 @@ SRS ID: CST116SRS06
 
 Unresolved Issues:  
 
-Notes:  
+Notes:  Left partner quit the assignment and did not provide a function. Right partner's function and data was used instead with instructor permission.
 
 Partner Left:  Whimsicott
 
