@@ -6,9 +6,16 @@ Class ID:  Fearow
 
 SRS ID: CST116SRS06  
 
-Unresolved Issues:  
+Unresolved Issues: None.
 
 Notes:  Left partner quit the assignment and did not provide a function. Right partner's function and data was used instead with instructor permission.
+		Compile with Visual Studio 2017 on Windows 10.
+
+partners function file: Dull_function.cpp
+partner's .h file: Dull_function.h
+
+My function file: Fearow_SSD.cpp
+My .h file: Fearow_SSD.h
 
 Partner Left:  Whimsicott
 
